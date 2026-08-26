@@ -1,0 +1,6 @@
+{
+  "name": "OmniCausal AI Scientist",
+  "description": "Автономный ИИ-исследователь причинно-следственных связей (Causal Loop Diagrams), анализа петель обратной связи и симуляции системной динамики.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
